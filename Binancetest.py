@@ -24,10 +24,10 @@ x = 0
 while True :
 
     ####基礎參數
-    bid_depth = 20
-    ask_depth = 20
-    bid_price = 1.00001  #買單最高價格
-    ask_price = 1.00045  #賣單最低價格
+    bid_depth = 50
+    ask_depth = 40
+    bid_price = 1.00031  #買單最高價格
+    ask_price = 1.00055  #賣單最低價格
     refreshtime = 55
 
     ####1_清空場上所有訂單
